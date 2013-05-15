@@ -183,7 +183,7 @@
         return;
     }
     
-    UIView *view = (UIView *)self.subviews[self.subviews.count == 4 ? 3 : 3];
+    UIView *view = (UIView *)self.subviews[self.subviews.count == 4 ? 3 : 2];
     view.layer.opacity = hide ? 0.0 : 1.0;
 }
 
