@@ -1,4 +1,2 @@
-Chatfeed-iOS
+LRHideNavigationBarElements
 ============
-
-Native App.net iOS client
